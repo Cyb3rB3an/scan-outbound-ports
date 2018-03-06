@@ -2,7 +2,7 @@
 How to scan for open outbound ports
 
 Everyone concentrates on scanning a network perimeter from the ouside in. 
-It is also important to scan from the inside network out to see what ports are open for users. 
+It is also important to scan from inside the network out to see what ports are open for users. 
 This can help reduce the impact the user based incident
 
 http://portquiz.net/ can be used for this type of scan.
